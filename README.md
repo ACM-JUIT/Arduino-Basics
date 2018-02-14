@@ -1,6 +1,8 @@
-# Arduino-Basics
-Community codes for getting started with Arduino. This Repository hosts codes for basic sensor interfacing and data collection
+## Arduino-Basics
 ----
+
+Community codes for getting started with Arduino. This Repository hosts codes for basic sensor interfacing and data collection
+
 **This Repository is also a part of Task 1 given to ACM Electronics member**
 
 ### To Do:
